@@ -49,3 +49,6 @@ MANIFEST
 # Per-project virtualenvs
 .venv*/
 .vscode/
+full-stats-*.txt
+stats-*.pkl
+summary-stats-*.pkl
